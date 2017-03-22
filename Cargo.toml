@@ -1,0 +1,11 @@
+[package]
+authors = ["Zaki Manian <zaki@manian.org>"]
+name = "cargo-audit-badge"
+version = "0.1.0"
+
+[dependencies]
+error-chain = "0.10.0"
+reqwest = "0.4.0"
+rocket = "0.2.2"
+rocket_codegen = "0.2.2"
+rustsec = "0.6.0"
